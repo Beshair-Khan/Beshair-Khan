@@ -1,7 +1,7 @@
 # Beshair Khan
 
 **BSIT Student & Data Analyst**  
-SMIU, Karachi, Pakistan
+SMIU, Pakistan
 
 I am an Information Technology student dedicated to turning complex data into structured, actionable business insights. I specialize in building data cleaning pipelines, engineering reliable time based metrics, and writing efficient SQL queries to manage large scale database operations. My analytical approach centers on maintaining high data integrity and solving structural anomalies across diverse datasets.
 
