@@ -7,6 +7,26 @@ I am an Information Technology student dedicated to turning complex data into st
 
 My focus spans across multiple domain analytics including telecom subscriber lifecycles, banking transactional behaviors, and retail patterns within the FMCG sector. I enjoy designing clean, production ready data pipelines using Python and relational databases to uncover hidden operational and consumer trends.
 
+
+Featured Projects
+
+Churn Prediction with Recharge Behavior Analysis
+Pakistan telecom churn analysis on an 11M-row synthetic PostgreSQL database across six tables. Built advanced SQL analyst queries — churn labeling with window functions, cohort retention, revenue trends, call-drop rates by tower.
+PostgreSQL SQL Window Functions
+
+Loan Default Early Warning System
+Predictive model for identifying early-warning signals in Pakistani borrower behavior patterns for the banking sector.
+Python Pandas Scikit-Learn
+
+Ramadan Demand Forecasting Engine
+Time-series forecasting model for seasonal FMCG demand spikes during Ramadan, built for Pakistani retail patterns.
+Python Time Series Forecasting
+
+Titanic End-to-End Analysis
+Full EDA-to-modeling pipeline covering data cleaning, visualization (Matplotlib/Seaborn/Plotly), and dashboards (Streamlit + Power BI).
+Pandas NumPy Streamlit Power BI
+
+
 ## Connect With Me
 
 <a href="https://github.com/Beshair-Khan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
