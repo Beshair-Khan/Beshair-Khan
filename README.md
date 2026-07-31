@@ -53,7 +53,6 @@ My focus spans across multiple domain analytics including telecom subscriber lif
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## GitHub Stats
-
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Beshair-Khan&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=64748b&dates=64748b&background=f8faff"/>
 </p>
