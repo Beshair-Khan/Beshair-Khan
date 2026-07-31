@@ -7,7 +7,7 @@ I am an Information Technology student dedicated to turning complex data into st
 
 My focus spans across multiple domain analytics including telecom subscriber lifecycles, banking transactional behaviors, and retail patterns within the FMCG sector. I enjoy designing clean, production ready data pipelines using Python and relational databases to uncover hidden operational and consumer trends.
 
-## Connect With
+## Connect With Me
 
 <a href="https://github.com/Beshair-Khan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/beshair-khan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
