@@ -22,7 +22,7 @@ My focus spans across multiple domain analytics including telecom subscriber lif
 - ### Ramadan Demand Forecasting Engine
     Time-series forecasting model for seasonal FMCG demand spikes during Ramadan, built for Pakistani retail patterns.
 
-    **Python** **Time Series Forecasting**
+        ● Python  ● Time Series Forecasting
 
 - ### Titanic End-to-End Analysis
     Full EDA-to-modeling pipeline covering data cleaning, visualization (Matplotlib/Seaborn/Plotly), and dashboards (Streamlit + Power BI).
