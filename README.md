@@ -19,6 +19,11 @@ My focus spans across multiple domain analytics including telecom subscriber lif
 
   **Python** **Pandas** **Scikit-Learn**
 
+- ### Ramadan Demand Forecasting Engine
+    Time-series forecasting model for seasonal FMCG demand spikes during Ramadan, built for Pakistani retail patterns.
+
+    **Python** **Time Series Forecasting**
+
 
 ## Connect With Me
 
