@@ -14,6 +14,11 @@ Pakistan telecom churn analysis on an 11M-row synthetic PostgreSQL database acro
 
 **PostgreSQL** **SQL** **Window** **Functions** **Python** **Matplotlib**
 
+### Loan Default Early Warning System
+Predictive model for identifying early-warning signals in Pakistani borrower behavior patterns for the banking sector.
+
+**Python** **Pandas** **Scikit-Learn**
+
 
 ## Connect With Me
 
