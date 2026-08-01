@@ -12,7 +12,7 @@ My focus spans across multiple domain analytics including telecom subscriber lif
 - ### Churn Prediction with Recharge Behavior Analysis
     Pakistan telecom churn analysis on an 11M-row synthetic PostgreSQL database across six tables. Built advanced SQL analyst queries — churn labeling with window              functions,   cohort retention, revenue trends, call-drop rates by tower.
 
-    **PostgreSQL** **SQL** **Window** **Functions** **Python** **Matplotlib**
+        ● PostgreSQL  ● SQL  ● Window  ● Functions  ● Python  ● Matplotlib
 
 - ### Loan Default Early Warning System
   Predictive model for identifying early-warning signals in Pakistani borrower behavior patterns for the banking sector.
