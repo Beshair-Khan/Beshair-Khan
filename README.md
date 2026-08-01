@@ -17,7 +17,7 @@ My focus spans across multiple domain analytics including telecom subscriber lif
 - ### Loan Default Early Warning System
   Predictive model for identifying early-warning signals in Pakistani borrower behavior patterns for the banking sector.
 
-  **Python** **Pandas** **Scikit-Learn**
+      ● Python  ● Pandas  ● Scikit-Learn
 
 - ### Ramadan Demand Forecasting Engine
     Time-series forecasting model for seasonal FMCG demand spikes during Ramadan, built for Pakistani retail patterns.
