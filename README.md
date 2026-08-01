@@ -27,7 +27,7 @@ My focus spans across multiple domain analytics including telecom subscriber lif
 - ### Titanic End-to-End Analysis
     Full EDA-to-modeling pipeline covering data cleaning, visualization (Matplotlib/Seaborn/Plotly), and dashboards (Streamlit + Power BI).
 
-    **Pandas** **NumPy** **Streamlit** **Power BI**
+        **Pandas** **NumPy** **Streamlit** **Power BI**
 
 
 ## Connect With Me
