@@ -50,14 +50,14 @@ My focus spans across multiple domain analytics including telecom subscriber lif
 
 - ### Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+    ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+    ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+    ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+    ![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
 
 - ### Development Tools
 
