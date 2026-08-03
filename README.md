@@ -7,7 +7,7 @@ I am an Information Technology student dedicated to turning complex data into st
 
 My focus spans across multiple domain analytics including telecom subscriber lifecycles, banking transactional behaviors, and retail patterns within the FMCG sector. I enjoy designing clean, production ready data pipelines using Python and relational databases to uncover hidden operational and consumer trends.
 
-## Featured Projects
+# Featured Projects
 
 - ### Churn Prediction with Recharge Behavior Analysis (In progress)
     Pakistan telecom churn analysis on an 11M-row synthetic PostgreSQL database across six tables. Built advanced SQL analyst queries — churn labeling with window              functions,   cohort retention, revenue trends, call-drop rates by tower.
