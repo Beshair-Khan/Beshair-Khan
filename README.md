@@ -30,7 +30,7 @@ My focus spans across multiple domain analytics including telecom subscriber lif
         ● Pandas  ● NumPy  ● Streamlit  ● Power BI
 
 - ### Retail Sales & Profitability Analysis**
-    End-to-end exploratory data analysis of multi-region retail sales to identify top-line revenue drivers, quarterly seasonality, and major profit leakage across product     categories and territories.
+    End to end exploratory data analysis of multi region retail sales to identify top line revenue drivers, quarterly seasonality, and major profit leakage across product     categories and territories.
 
         • Python  • Pandas  • Matplotlib  • Seaborn  • Data Visualization
 
