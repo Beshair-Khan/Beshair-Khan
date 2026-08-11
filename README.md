@@ -34,8 +34,8 @@ My focus spans across multiple domain analytics including telecom subscriber lif
 
         • Python  • Pandas  • Matplotlib  • Seaborn  • Data Visualization  • KPI Reporting  • EDA
 
-- ### Global Happiness & Well Being Analysis**
-    End to end exploratory data analysis of multi region retail sales to identify top line revenue drivers, quarterly seasonality, and major profit leakage across product     categories and territories.
+- ### Global Happiness & Well Being Analysis
+    End to end exploratory data analysis of longitudinal World Happiness Report data (2017–2019) to identify key socio economic drivers, regional disparities, and core factors impacting national well being scores.
 
         • Python  • Pandas  • Matplotlib  • Seaborn  • Data Visualization  • KPI Reporting  • EDA
 
