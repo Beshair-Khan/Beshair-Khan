@@ -37,7 +37,7 @@ My focus spans across multiple domain analytics including telecom subscriber lif
 - ### Global Happiness & Well Being Analysis
     End to end exploratory data analysis of longitudinal World Happiness Report data (2017–2019) to identify key socio economic drivers, regional disparities, and core factors impacting national well being scores.
 
-        • Python  • Pandas  • Matplotlib  • Seaborn • Statistics • Data Visualization  • KPI Reporting  • EDA
+        • Python  • Pandas  • Matplotlib  • Seaborn • Statistics  • Data Visualization  • KPI Reporting  • EDA
 
 
 ## Connect With Me
