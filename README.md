@@ -15,7 +15,7 @@ My focus spans across multiple domain analytics including telecom subscriber lif
         ● PostgreSQL  ● SQL  ● Window  ● Functions  ● Python  ● Matplotlib
 
 - ### Loan Default Early Warning System (Upcoming Project)
-  Predictive model for identifying early-warning signals in Pakistani borrower behavior patterns for the banking sector.
+  Predictive model for identifying early warning signals in Pakistani borrower behavior patterns for the banking sector.
 
       ● Python  ● Pandas  ● Scikit-Learn
 
