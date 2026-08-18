@@ -68,7 +68,7 @@ My focus spans across multiple domain analytics including telecom subscriber lif
     ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
     ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
     ![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
-    ![Supervised-Learning](https://img.shields.io/badge/Supervised-Learning-11557C?style=for-the-badge&logo=supervised-learning&logoColor=white)
+    ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-11557C?style=for-the-badge&logo=openai&logoColor=white)
 
 - ### Development Tools
 
