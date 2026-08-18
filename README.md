@@ -97,14 +97,12 @@ Working on machine learning workflows for SEO and content intelligence, includin
 # Tech Stack
 
 ## Programming & Databases
-
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ## Data Analysis
-
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
