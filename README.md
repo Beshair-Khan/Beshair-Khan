@@ -82,7 +82,6 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   
   **Technologies:**
   `Python` `Time Series Forecasting` `Pandas` `Statistical Analysis`
-
 ---
 
 # Tech Stack
