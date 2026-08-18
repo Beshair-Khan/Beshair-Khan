@@ -127,12 +127,6 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
 
 ---
 
-# Connect With Me
-
-<a href="https://github.com/Beshair-Khan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/beshair-khan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="mailto:beshairkhan2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 # GitHub Stats
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Beshair-Khan&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=64748b&dates=64748b&background=f8faff"/>
