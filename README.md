@@ -109,6 +109,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
   ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+  
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-11557C?style=for-the-badge)
   ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)
   ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-008080?style=for-the-badge)
