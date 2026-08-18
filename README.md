@@ -91,23 +91,25 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
 <a href="https://www.linkedin.com/in/beshair-khan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
 <a href="mailto:beshairkhan2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+---
 
 # Tech Stack
 
-## Programming & Databases
+  ## Programming & Databases
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+  ---
 
-## Data Analysis
+  ## Data Analysis
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-## Data Science & Machine Learning
+  ---
+  ## Data Science & Machine Learning
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
   ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
@@ -116,24 +118,24 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)
   ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-008080?style=for-the-badge)
 
-
-## Tools
+  ---
+  ## Tools
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-## Deployment & Visualization
+  ---
+  ## Deployment & Visualization
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## GitHub Stats
+# GitHub Stats
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Beshair-Khan&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=64748b&dates=64748b&background=f8faff"/>
 </p>
 
-## Contribution Graph
+# Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beshair-Khan&bg_color=f8faff&color=2563eb&line=2563eb&point=0f172a&area=true&hide_border=true"/>
 </p>
