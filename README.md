@@ -33,6 +33,33 @@ Working on machine learning workflows for SEO and content intelligence, includin
 
 # Featured Projects
 
+- ### Retail Sales & Profitability Analysis
+
+  End-to-end exploratory data analysis project analyzing multi-region retail performance to identify revenue drivers, profitability gaps, seasonal trends, and business improvement opportunities.
+  
+  **Technologies:**
+  `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `Data Visualization`
+
+---
+
+- ### Global Happiness & Well Being Analysis
+
+  Exploratory analysis of World Happiness Report datasets (2017–2019) to understand socioeconomic factors, regional patterns, and key drivers influencing happiness scores.
+  
+  **Technologies:**
+  `Python` `Pandas` `Statistics` `Visualization` `EDA`
+
+---
+
+- ### Titanic End-to-End Machine Learning Pipeline (In Progress)
+
+  Complete machine learning workflow covering data preprocessing, exploratory data analysis, feature engineering, visualization, model training, and evaluation.
+  
+  **Technologies:**
+  `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn` `Streamlit`
+
+---
+
 - ### Churn Prediction with Recharge Behavior Analysis (In Progress)
 
   Telecom customer churn analysis using an 11M-row synthetic PostgreSQL database across multiple relational tables. Built analytical SQL workflows for churn labeling, customer lifecycle analysis, cohort retention, revenue trends, and network performance insights.
@@ -60,33 +87,6 @@ Working on machine learning workflows for SEO and content intelligence, includin
 
 ---
 
-- ### Titanic End-to-End Machine Learning Pipeline (In Progress)
-
-  Complete machine learning workflow covering data preprocessing, exploratory data analysis, feature engineering, visualization, model training, and evaluation.
-  
-  **Technologies:**
-  `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn` `Streamlit`
-
----
-
-- ### Retail Sales & Profitability Analysis
-
-  End-to-end exploratory data analysis project analyzing multi-region retail performance to identify revenue drivers, profitability gaps, seasonal trends, and business improvement opportunities.
-  
-  **Technologies:**
-  `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `Data Visualization`
-
----
-
-- ### Global Happiness & Well Being Analysis
-
-  Exploratory analysis of World Happiness Report datasets (2017–2019) to understand socioeconomic factors, regional patterns, and key drivers influencing happiness scores.
-  
-  **Technologies:**
-  `Python` `Pandas` `Statistics` `Visualization` `EDA`
-
----
-
 # Connect With Me
 
 <a href="https://github.com/Beshair-Khan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/></a>
@@ -110,7 +110,6 @@ Working on machine learning workflows for SEO and content intelligence, includin
 
 
 ## Data Science & Machine Learning
-
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
   ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
@@ -121,7 +120,6 @@ Working on machine learning workflows for SEO and content intelligence, includin
 
 
 ## Tools
-
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -129,7 +127,6 @@ Working on machine learning workflows for SEO and content intelligence, includin
 
 
 ## Deployment & Visualization
-
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
