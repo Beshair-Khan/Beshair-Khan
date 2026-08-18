@@ -67,7 +67,6 @@ My focus spans across multiple domain analytics including telecom subscriber lif
   
     ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
     ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-    ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
     ![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
 
 - ### Development Tools
