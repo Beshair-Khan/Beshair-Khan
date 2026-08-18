@@ -10,6 +10,10 @@ Currently, I am working as a **Machine Learning Intern at FlyRank AI**, contribu
 My expertise includes **Python, SQL, PostgreSQL,Machine Learning, and Power BI**. I specialize in data cleaning, exploratory data analysis (EDA), KPI development, SQL analytics, feature engineering, and building predictive models.
 
 My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to combine analytical thinking with machine learning to create impactful solutions.
+### Connect With Me
+<a href="https://github.com/Beshair-Khan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/beshair-khan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="mailto:beshairkhan2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
