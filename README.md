@@ -13,7 +13,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
 
 ---
 
-## Professional Experience
+# Professional Experience
   ### Machine Learning Intern — FlyRank AI
   **SEO Analytics & Machine Learning Projects**
   
