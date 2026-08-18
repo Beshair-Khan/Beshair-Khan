@@ -38,7 +38,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   **Technologies:**
   `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `Data Visualization`
 
----
+  ---
 
 - ### Global Happiness & Well Being Analysis
 
@@ -47,7 +47,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   **Technologies:**
   `Python` `Pandas` `Statistics` `Visualization` `EDA`
 
----
+  ---
 
 - ### Titanic End-to-End Machine Learning Pipeline (In Progress)
 
@@ -56,7 +56,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   **Technologies:**
   `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn` `Streamlit`
 
----
+  ---
 
 - ### Churn Prediction with Recharge Behavior Analysis (In Progress)
 
@@ -65,7 +65,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   **Technologies:**
   `PostgreSQL` `SQL` `Window Functions` `Python` `Pandas` `Matplotlib`
 
----
+  ---
 
 - ### Loan Default Early Warning System (Upcoming)
 
@@ -74,7 +74,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   **Technologies:**
   `Python` `Pandas` `Scikit-Learn` `Classification` `Model Evaluation`
 
----
+  ---
 
 - ### Ramadan Demand Forecasting Engine (Upcoming)
 
