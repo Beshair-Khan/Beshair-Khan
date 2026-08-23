@@ -1,4 +1,4 @@
-# Beshair Kha
+# Beshair Khan
 
 **BSIT Student | Data Analyst | Aspiring Data Scientist**  
 SMIU, Pakistan
