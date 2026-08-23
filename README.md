@@ -3,7 +3,7 @@
 **BSIT Student | Data Analyst | Aspiring Data Scientist**  
 SMIU, Pakistan
 
-I am an Information Technology student focused on transforming raw data into meaningful business insights and intelligent data-driven solutions. My work combines **data analytics, statistical analysis, machine learning, and database engineering** to solve real world problems.
+I am an Information Technology student focused on transforming raw data into meaningful business insights and intelligent data-driven solutions. My work combines **data analytics, statistical analysis, machine learning, and database engineering** to solve real world problems
 
 Currently, I am working as a **Machine Learning Intern at FlyRank AI**, contributing to SEO focused machine learning projects involving content performance analysis, ranking systems, feature engineering, and predictive modeling. I enjoy building analytical workflows that convert complex datasets into actionable insights.
 
