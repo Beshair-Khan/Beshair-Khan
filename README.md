@@ -1,7 +1,7 @@
 # Beshair Khan
 
 **BSIT Student | Data Analyst | Aspiring Data Scientist**  
-SMIU, Pakistan
+SMIU, Pakista
 
 I am an Information Technology student focused on transforming raw data into meaningful business insights and intelligent data-driven solutions. My work combines **data analytics, statistical analysis, machine learning, and database engineering** to solve real world problems.
 
