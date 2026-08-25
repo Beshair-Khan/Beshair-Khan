@@ -26,7 +26,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   - Feature engineering for ranking and performance prediction
   - Understanding search performance metrics and content behavior
   - Building analytical pipelines for large-scale SEO datasets
-  - Applying ML concepts for content ranking and optimization problem
+  - Applying ML concepts for content ranking and optimization problems
   
   **Technologies:**
   `Python`  `Machine Learning` `Feature Engineering` `Data Analysis`
