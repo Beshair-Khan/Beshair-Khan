@@ -7,7 +7,7 @@ I am an Information Technology student focused on transforming raw data into mea
 
 Currently, I am working as a **Machine Learning Intern at FlyRank AI**, contributing to SEO focused machine learning projects involving content performance analysis, ranking systems, feature engineering, and predictive modeling. I enjoy building analytical workflows that convert complex datasets into actionable insights.
 
-My expertise includes **Python, SQL, PostgreSQL, Machine Learning, and Power BI**. I specialize in data cleaning, exploratory data analysis (EDA), KPI development, SQL analytics, feature engineering, and building predictive models.
+My expertise includes **Python, Machine Learning, SQL, PostgreSQL, Machine Learning, and Power BI**. I specialize in data cleaning, exploratory data analysis (EDA), KPI development, SQL analytics, feature engineering, and building predictive models.
 
 My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to combine analytical thinking with machine learning to create impactful solutions.
 ### Connect With Me
