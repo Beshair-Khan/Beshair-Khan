@@ -38,7 +38,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
 
 - ### Retail Sales & Profitability Analysis
 
-  End-to-end exploratory data analysis project analyzing multi-region retail performance to identify revenue drivers, profitability gaps, seasonal trends, and business improvement opportunities.
+  End-to-end exploratory data analysis project analyzing multi region retail performance to identify revenue drivers, profitability gaps, seasonal trends, and business improvement opportunities.
   
   **Technologies:**
   `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `Data Visualization`
