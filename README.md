@@ -30,7 +30,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   - Applying ML concepts for content ranking and optimization problems
   
   **Technologies:**
-  `Python`  `Machine Learning` `Feature Engineering` `Data Analysis`
+  `Python`  `Machine Learning` `Feature Engineering` `Data Analysis` `Streamlit`
 
 ---
 
