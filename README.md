@@ -136,10 +136,3 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Beshair-Khan&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=64748b&dates=64748b&background=f8faff"/>
 </p>
-
----
-
-# Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beshair-Khan&bg_color=f8faff&color=2563eb&line=2563eb&point=0f172a&area=true&hide_border=true"/>
-</p>
