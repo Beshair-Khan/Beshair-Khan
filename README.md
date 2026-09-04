@@ -129,10 +129,3 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   ### Deployment & Visualization
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-# GitHub Stats
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Beshair-Khan&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=64748b&dates=64748b&background=f8faff"/>
-</p>
