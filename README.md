@@ -108,6 +108,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
   ---
   ### Data Science & Machine Learning
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+ ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
   ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
