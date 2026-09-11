@@ -56,7 +56,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
 
 - ### Titanic End-to-End Machine Learning Pipeline (In Progress)
 
-  Complet machine learning workflow covering data preprocessing, exploratory data analysis, feature engineering, visualization, model training, and evaluation.
+  Complete machine learning workflow covering data preprocessing, exploratory data analysis, feature engineering, visualization, model training, and evaluation.
   
   **Technologies:**
   `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn` `Streamlit`
