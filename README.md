@@ -72,13 +72,7 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
 
   ---
 
-- ### Ramadan Demand Forecasting Engine (Upcoming)
 
-  Time-series forecasting solution designed to analyze seasonal FMCG demand patterns during Ramadan.
-  
-  **Technologies:**
-  `Python` `Time Series Forecasting` `Pandas` `Statistical Analysis`
----
 
 # Tech Stack
 
