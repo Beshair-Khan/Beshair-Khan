@@ -72,15 +72,6 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
 
   ---
 
-- ### Loan Default Early Warning System (Upcoming)
-
-  Machine learning model designed to identify early risk indicators in borrower behavior for banking analytics.
-  
-  **Technologies:**
-  `Python` `Pandas` `Scikit-Learn` `Classification` `Model Evaluation`
-
-  ---
-
 - ### Ramadan Demand Forecasting Engine (Upcoming)
 
   Time-series forecasting solution designed to analyze seasonal FMCG demand patterns during Ramadan.
