@@ -23,8 +23,8 @@ Currently a **Machine Learning Intern at FlyRank AI**, where I designed, built, 
 Independently designed, built, and shipped an end-to-end ML system predicting webpage search decline, from a 9.9M-row raw dataset to a deployed, interactive tool.
 
 - Benchmarked hand rule → Decision Tree → Random Forest → XGBoost using precision@k, improving from 0% to 68%
-- Found a hidden class-imbalance bug (model was missing 84% of real declines despite strong headline metrics) and fixed it via weighted training — recall 16% → 51%, precision also improved
-- Built a leakage-safe, client-grouped train/test split and verified it directly
+- Found a hidden class imbalance bug (model was missing 84% of real declines despite strong headline metrics) and fixed it via weighted training recall 16% → 51%, precision also improved
+- Built a leakage-safe, client grouped train/test split and verified it directly
 - Deployed the model as an interactive Streamlit app with data-driven filtering
 
 **Technologies:** `Python` `pandas` `NumPy` `scikit-learn` `XGBoost` `Streamlit` `Git/GitHub` `Matplotlib/Seaborn` `Hugging Face Datasets`
@@ -36,9 +36,10 @@ Independently designed, built, and shipped an end-to-end ML system predicting we
 # Featured Projects
 
 - ### Retail Sales & Profitability Analysis
-  End-to-end EDA analyzing multi-region retail performance to identify revenue drivers, profitability gaps, seasonal trends, and business improvement opportunities.
+  End-to-end EDA analyzing multi region retail performance to identify revenue drivers, profitability gaps, seasonal trends, and business improvement opportunities.
 
   **Repository:** [Repository](https://github.com/Beshair-Khan/retail-sales-analysis)
+  
   **Technologies:** `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `Data Visualization`
   
   ---
@@ -47,6 +48,7 @@ Independently designed, built, and shipped an end-to-end ML system predicting we
   Exploratory analysis of World Happiness Report data (2017–2019) to understand socioeconomic factors, regional patterns, and key drivers behind happiness scores.
 
   **Repository:** [Repository](https://github.com/Beshair-Khan/global-happiness-and-well-being-analysis)
+  
   **Technologies:** `Python` `Pandas` `Statistics` `Visualization` `EDA`
 
   ---
@@ -55,14 +57,16 @@ Independently designed, built, and shipped an end-to-end ML system predicting we
   Complete ML workflow: preprocessing, EDA, feature engineering, visualization, model training, and evaluation.
 
   **Repository:** [Repository](https://github.com/Beshair-Khan/titanic_end_to_end_analysis)
+  
   **Technologies:** `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn` `Streamlit`
 
   ---
 
 - ### Churn Prediction with Recharge Behavior Analysis *(In Progress)*
-  Telecom customer churn analysis on an 11M-row synthetic PostgreSQL database across multiple relational tables — churn labeling, customer lifecycle analysis, cohort retention, revenue trends, and network performance insights.
+  Telecom customer churn analysis on an 11M-row synthetic PostgreSQL database across multiple relational tables churn labeling, customer lifecycle analysis, cohort retention, revenue trends, and network performance insights.
 
   **Repository:** [Repository](https://github.com/Beshair-Khan/PK_Telecom_Churn_Prediction)
+  
   **Technologies:** `PostgreSQL` `SQL` `Window Functions` `Python` `Pandas` `Matplotlib`
 
 ---
