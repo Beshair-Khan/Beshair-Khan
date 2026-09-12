@@ -26,14 +26,14 @@ Independently designed, built, and shipped an end-to-end ML system that predicts
 
 - **Data & labeling:** Worked with a 9.9M row, 30 column real world search performance dataset (FlyRank internship warehouse). Diagnosed and handled two distinct missingness patterns (31% GA4 gap, 63% GSC position gap) and engineered a custom feature (`ga4_availability_pct`) to prevent missing analytics data from being misread as genuinely low engagement.
 - **Leakage-aware validation:** Built a client-grouped train/test split (`GroupShuffleSplit`) and directly verified zero client overlap between sets, preventing group leakage that would have silently inflated performance metrics.
-- **Model development:** Benchmarked a hand-written threshold rule against Decision Tree, Random Forest, and XGBoost, evaluated on precision@k — the metric that actually matches the business workflow (reviewing a ranked shortlist), not raw accuracy. Improved precision@50 from 0% (hand rule) to 66% (XGBoost).
-- **Found and fixed a hidden class-imbalance bug:** Discovered via confusion matrix analysis that the top-performing model was silently missing 84% of real declining pages (16% recall) despite strong headline precision. Corrected this with weighted training, lifting recall to 51% while *improving* precision@50 to 68% — a rare case where both metrics moved together.
-- **Deployment:** Built and shipped a Streamlit application serving the trained model in real time — client filtering, a data-driven confidence threshold (set from the actual probability distribution, not a guess), sorted recommendations, and portable file handling for cloud deployment.
+- **Model development:** Benchmarked a hand written threshold rule against Decision Tree, Random Forest, and XGBoost, evaluated on precision@k the metric that actually matches the business workflow (reviewing a ranked shortlist), not raw accuracy. Improved precision@50 from 0% (hand rule) to 66% (XGBoost).
+- **Found and fixed a hidden class imbalance bug:** Discovered via confusion matrix analysis that the top performing model was silently missing 84% of real declining pages (16% recall) despite strong headline precision. Corrected this with weighted training, lifting recall to 51% while *improving* precision@50 to 68% a rare case where both metrics moved together.
+- **Deployment:** Built and shipped a Streamlit application serving the trained model in real time client filtering, a data driven confidence threshold (set from the actual probability distribution, not a guess), sorted recommendations, and portable file handling for cloud deployment.
 - **Communication:** Authored and published a full research paper as a public web page (background, methodology, results, honestly-stated limitations, and recommendations), and presented findings for both technical and non-technical (content team) audiences.
 
 **Technologies:** `Python` `pandas` `NumPy` `scikit-learn` `XGBoost` `Streamlit` `Git/GitHub` `Matplotlib/Seaborn` `Hugging Face Datasets`
 
-**Links:** [Live tool](https://ml-internhsip.streamlit.app/) · [Research paper](https://beshair-khan.github.io/flyrank_ml_internship/) · [Repository](https://github.com/Beshair-Khan/flyrank_ml_internship)
+**Repository:** [Repository](https://github.com/Beshair-Khan/flyrank_ml_internship)
 
 ---
 
