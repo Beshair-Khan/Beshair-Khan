@@ -6,7 +6,7 @@ I turn raw data into decisions. My work spans data analytics, statistical analys
 
 Currently a **Machine Learning Intern at FlyRank AI**, where I designed, built, and deployed an end to end ML system that took precision on a real prediction task from 0% to 68%.
 
-**Core skills:** Python · SQL/PostgreSQL · Machine Learning · Feature Engineering · EDA · KPI Development · Power BI · Excel
+**Core skills:** `Python` `SQL/PostgreSQL` `Machine Learning` `Feature Engineering` `EDA` `KPI Development` `Power BI` `Excel`
 
 ### Connect With Me
 <a href="https://github.com/Beshair-Khan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -39,6 +39,7 @@ Independently designed, built, and shipped an end-to-end ML system predicting we
   End-to-end EDA analyzing multi region retail performance to identify revenue drivers, profitability gaps, seasonal trends, and business improvement opportunities.
   
   **Technologies:** `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `Data Visualization`
+  
   [Repository](https://github.com/Beshair-Khan/retail-sales-analysis)
   
   ---
@@ -63,10 +64,10 @@ Independently designed, built, and shipped an end-to-end ML system predicting we
 
 - ### Churn Prediction with Recharge Behavior Analysis *(In Progress)*
   Telecom customer churn analysis on an 11M-row synthetic PostgreSQL database across multiple relational tables churn labeling, customer lifecycle analysis, cohort retention, revenue trends, and network performance insights.
-
-  **Repository:** [Repository](https://github.com/Beshair-Khan/PK_Telecom_Churn_Prediction)
   
   **Technologies:** `PostgreSQL` `SQL` `Window Functions` `Python` `Pandas` `Matplotlib`
+
+  [Repository](https://github.com/Beshair-Khan/PK_Telecom_Churn_Prediction)
 
 ---
 
