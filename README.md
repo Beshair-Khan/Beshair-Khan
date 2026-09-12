@@ -24,12 +24,10 @@ My interests span across **Telecom, Banking, and FMCG Sectors**, where I aim to 
 
 Independently designed, built, and shipped an end-to-end ML system that predicts whether a webpage's search performance will grow, decline, or stay stable from a 9.9M row raw dataset to a deployed, interactive tool.
 
-- **Data & labeling:** Worked with a 9.9M row, 30 column real world search performance dataset (FlyRank internship warehouse). Diagnosed and handled two distinct missingness patterns (31% GA4 gap, 63% GSC position gap) and engineered a custom feature (`ga4_availability_pct`) to prevent missing analytics data from being misread as genuinely low engagement.
-- **Leakage-aware validation:** Built a client-grouped train/test split (`GroupShuffleSplit`) and directly verified zero client overlap between sets, preventing group leakage that would have silently inflated performance metrics.
-- **Model development:** Benchmarked a hand written threshold rule against Decision Tree, Random Forest, and XGBoost, evaluated on precision@k the metric that actually matches the business workflow (reviewing a ranked shortlist), not raw accuracy. Improved precision@50 from 0% (hand rule) to 66% (XGBoost).
-- **Found and fixed a hidden class imbalance bug:** Discovered via confusion matrix analysis that the top performing model was silently missing 84% of real declining pages (16% recall) despite strong headline precision. Corrected this with weighted training, lifting recall to 51% while *improving* precision@50 to 68% a rare case where both metrics moved together.
-- **Deployment:** Built and shipped a Streamlit application serving the trained model in real time client filtering, a data driven confidence threshold (set from the actual probability distribution, not a guess), sorted recommendations, and portable file handling for cloud deployment.
-- **Communication:** Authored and published a full research paper as a public web page (background, methodology, results, honestly-stated limitations, and recommendations), and presented findings for both technical and non-technical (content team) audiences.
+- Benchmarked hand rule → Decision Tree → Random Forest → XGBoost using precision@k, improving from 0% to 68%
+- Found a hidden class imbalance bug (model was missing 84% of real declines despite strong headline metrics) and fixed it via weighted training recall 16% → 51%, precision also improved
+- Built a leakage safe, client grouped train/test split and verified it directly
+- Deployed the model as an interactive Streamlit app with data driven filtering
 
 **Technologies:** `Python` `pandas` `NumPy` `scikit-learn` `XGBoost` `Streamlit` `Git/GitHub` `Matplotlib/Seaborn` `Hugging Face Datasets`
 
