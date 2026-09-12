@@ -1,7 +1,5 @@
-# Beshair Khan
-**BSIT | Data Analyst | Data Scientist**
-
-SMIU, Pakistan
+# Beshair Khan 
+**BSIT Student | Data Analyst | Data Scientist**  SMIU, Pakistan
 
 I turn raw data into decisions. My work spans data analytics, statistical analysis, machine learning, and database engineering, with a focus on real world problems in **Telecom, Banking, and FMCG** the sectors I'm building my career toward.
 
