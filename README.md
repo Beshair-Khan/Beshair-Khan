@@ -37,28 +37,27 @@ Independently designed, built, and shipped an end-to-end ML system predicting we
 
 - ### Retail Sales & Profitability Analysis
   End-to-end EDA analyzing multi region retail performance to identify revenue drivers, profitability gaps, seasonal trends, and business improvement opportunities.
-
-  **Repository:** [Repository](https://github.com/Beshair-Khan/retail-sales-analysis)
   
   **Technologies:** `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `Data Visualization`
+  [Repository](https://github.com/Beshair-Khan/retail-sales-analysis)
   
   ---
 
 - ### Global Happiness & Well-Being Analysis
   Exploratory analysis of World Happiness Report data (2017–2019) to understand socioeconomic factors, regional patterns, and key drivers behind happiness scores.
-
-  **Repository:** [Repository](https://github.com/Beshair-Khan/global-happiness-and-well-being-analysis)
   
   **Technologies:** `Python` `Pandas` `Statistics` `Visualization` `EDA`
+
+  [Repository](https://github.com/Beshair-Khan/global-happiness-and-well-being-analysis)
 
   ---
 
 - ### Titanic End-to-End Machine Learning Pipeline *(In Progress)*
   Complete ML workflow: preprocessing, EDA, feature engineering, visualization, model training, and evaluation.
-
-  **Repository:** [Repository](https://github.com/Beshair-Khan/titanic_end_to_end_analysis)
   
   **Technologies:** `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn` `Streamlit`
+
+  [Repository](https://github.com/Beshair-Khan/titanic_end_to_end_analysis)
 
   ---
 
