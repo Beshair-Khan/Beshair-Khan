@@ -6,7 +6,7 @@ I turn raw data into decisions. My work spans data analytics, statistical analys
 
 Currently a **Machine Learning Intern at FlyRank AI**, where I designed, built, and deployed an end to end ML system that took precision on a real prediction task from 0% to 68%.
 
-**Core skills:** `Python` `SQL/PostgreSQL` `Machine Learning` `Feature Engineering` `EDA` `KPI Development` `Power BI` `Excel`
+**Core skills:** `Python` `SQL/PostgreSQL` `Machine Learning` `Feature Engineering` `EDA` `KPI Development` `Power BI` `Excel` `ETL/ELT`
 
 ### Connect With Me
 <a href="https://github.com/Beshair-Khan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
