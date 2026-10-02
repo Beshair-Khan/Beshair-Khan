@@ -2,7 +2,7 @@
 **BSIT Student | Data Analyst | Data Scientist**  
   SMIU, Pakistan
 
-I turn raw data into decisions. My work spans data analytics, statistical analysis, machine learning, and database engineering, with a focus on real world problems in **Telecom, Banking, and FMCG** the sectors I'm building my career toward
+I turn raw data into decisions. My work spans data analytics, statistical analysis, machine learning, and database engineering, with a focus on real world problems in **Telecom, Banking, and FMCG** the sectors I'm building my career toward.
 
 Currently a **Machine Learning Intern at FlyRank AI**, where I designed, built, and deployed an end to end ML system that took precision on a real prediction task from 0% to 68%.
 
